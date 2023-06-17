@@ -1,0 +1,13 @@
+name = "SmoothBoot"
+filename = "SmoothBoot-1.19-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9aa55cecf08ae4c317adc38bdfe99422646d06c0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3869533
+project-id = 643330

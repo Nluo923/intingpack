@@ -1,0 +1,35 @@
+hash-format = "sha256"
+
+[[files]]
+file = "README.md"
+hash = "19404baa7ca17f2dab6e545d3ccabc1148d3bd1eaff4065b63b3e9cf4ee17184"
+
+[[files]]
+file = "mods/create-stuff-additions.pw.toml"
+hash = "5549e27f071c2e03163ed92198a63bfb9f1e0d8934d069afd1fe46cb3d41ee71"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "89bf28ca15640301ff8cf651ccbcae3047cbaf6af30797f739bfa45d1f2299ce"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "fc61146eab089feb4f979289ba3aca698b538aa5bd3eba5f18ac0c80090c589f"
+metafile = true
+
+[[files]]
+file = "mods/mutil.pw.toml"
+hash = "39f4bf26ebf5e0b985d1857dcd3f1fc4cc38093b08c2835a057e41e1a6aa21b3"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage.pw.toml"
+hash = "7c0f5c7e3bbb3607a6d6382409274a95acdf050192dd355a0bab2b457abc3868"
+metafile = true
+
+[[files]]
+file = "mods/tetra.pw.toml"
+hash = "653e0d33a5ff0b1949e19ad36b271f9a81e628b8e4783c42e27a2bcbee6f1b96"
+metafile = true

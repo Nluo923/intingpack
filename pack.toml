@@ -1,0 +1,16 @@
+name = "intingpack"
+author = "nouloo"
+version = "0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1d90451d2b60318856b05541f97fdf5b94d1c89c80c563d726644c9e9f08d9f4"
+
+[versions]
+forge = "43.2.14"
+minecraft = "1.19.2"
+
+[options]
+acceptable-game-versions = ["1.19", "1.19.1", "1.19.2"]

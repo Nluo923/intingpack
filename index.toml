@@ -110,6 +110,11 @@ hash = "fc61146eab089feb4f979289ba3aca698b538aa5bd3eba5f18ac0c80090c589f"
 metafile = true
 
 [[files]]
+file = "mods/fastload.pw.toml"
+hash = "da5a2dba3ec82b05ec03cb6a812ba002e5e182cb1f85d4f942e67c5b466644f4"
+metafile = true
+
+[[files]]
 file = "mods/fastworkbench.pw.toml"
 hash = "05ba0e63b05f5b98111cfbe0b16411688b6ff7ffd675e2fd0ec5249709cc5b97"
 metafile = true
@@ -137,6 +142,16 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "2b7ad9503a31d7b4be0f53b8d5b07761983646646fda873c7277b04982f5ecfb"
+metafile = true
+
+[[files]]
+file = "mods/just-zoom-forge.pw.toml"
+hash = "22267079d5b777a0d8da7ec58707613711689dbb2902502b996658ec1a14bd8a"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "04e6cbf4762f7264c2dad8728d4f495a98a0301e0d6fa27122840b064a27964e"
 metafile = true
 
 [[files]]
@@ -177,6 +192,11 @@ metafile = true
 [[files]]
 file = "mods/mutil.pw.toml"
 hash = "39f4bf26ebf5e0b985d1857dcd3f1fc4cc38093b08c2835a057e41e1a6aa21b3"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "e8e0377d44d43a46f80b8cc0cbfeb059504c361d36705cda5a79d6b42c85a0ad"
 metafile = true
 
 [[files]]
@@ -247,6 +267,11 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
 hash = "1e84c75519192f7a60914a983acf6c3211e12e6b09c516098c7ad90f52f2f0dd"
+metafile = true
+
+[[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "781896701dc26fd89483325914ee4343c427043893d8bb29bea527c149ab6029"
 metafile = true
 
 [[files]]

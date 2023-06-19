@@ -1,6 +1,6 @@
 name = "YUNG's Better Desert Temples (Forge)"
 filename = "YungsBetterDesertTemples-1.19.2-Forge-2.2.2.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

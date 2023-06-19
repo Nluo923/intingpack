@@ -1,6 +1,6 @@
 name = "YUNG's API (Forge)"
 filename = "YungsApi-1.19.2-Forge-3.8.9.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

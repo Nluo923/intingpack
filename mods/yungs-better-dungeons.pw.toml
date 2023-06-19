@@ -1,6 +1,6 @@
 name = "YUNG's Better Dungeons (Forge)"
 filename = "YungsBetterDungeons-1.19.2-Forge-3.2.2.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

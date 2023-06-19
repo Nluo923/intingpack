@@ -80,6 +80,11 @@ hash = "89bf28ca15640301ff8cf651ccbcae3047cbaf6af30797f739bfa45d1f2299ce"
 metafile = true
 
 [[files]]
+file = "mods/createaddition.pw.toml"
+hash = "dc215d12d87c9cc23a80637334dbed408a729ac9fb5310fb521d4750023931e6"
+metafile = true
+
+[[files]]
 file = "mods/creeper-overhaul.pw.toml"
 hash = "9b6eba81b6899e5b6961cdb6533a8dc9844baf91671048b0313fb1deb0c525c5"
 metafile = true
@@ -176,7 +181,17 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "421b20e8552643a3e91e15fe300a45e58a32eef7de8c60af1d0a6bca2c0d2823"
+hash = "f7452c4665f0e8c93438deaae53632f4d7dd155f3222456fa4aa195ed2e73756"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "0b8ad37ee1bbf8eb65e7f32cfd52b589db3b47e738204c41728ec56f99afcf74"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-tools.pw.toml"
+hash = "a41f41807831a1a4b1885b0be9a351841c9071cf2a90f2f2eb2e40a1330842a3"
 metafile = true
 
 [[files]]

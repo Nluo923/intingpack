@@ -5,6 +5,8 @@ farmer's delight
 refined storage
 
 create -> mekanism
+ - basic circuit on osmium sheet
+ - enriched alloy with andesite alloy
  - advanced circuit needs electron tubes
  - ultimate circuit needs sturdy sheets
 

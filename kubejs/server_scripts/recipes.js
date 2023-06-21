@@ -75,7 +75,7 @@ ServerEvents.recipes(recipe => {
     }
   );
   
-  event.custom({  
+  recipe.custom({  
     type: 'mekanism:metallurgic_infusing',  
     itemInput: Ingredient.of('create:andesite_alloy').toJson()  
     chemicalInput: {  
